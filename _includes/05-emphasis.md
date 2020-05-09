@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# My Least Favorite Things
+*Read Dead Redemption 2.*
+**It never works**
